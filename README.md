@@ -96,12 +96,11 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=denizersan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lkhkmwmagdfqnekjcnyk6mehim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
